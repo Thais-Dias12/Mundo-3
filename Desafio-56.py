@@ -1,5 +1,3 @@
-maior = 0
-menor = 0
 somaidade = 0
 mediaidade = 0
 maioridadehomem = 0
