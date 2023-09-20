@@ -1,3 +1,4 @@
+#Jogo de adivinha, atualizado!
 from time import sleep
 n1 = int(input('\033[34mDigite primeiro valor: '))
 n2 = int(input('Digite segundo valor: '))
