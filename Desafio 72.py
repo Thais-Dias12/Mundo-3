@@ -2,7 +2,8 @@
 #primeiro criei uma tupla com os números por extenso.
 
 numero_por_extenso = ['Zero','Um','Dois','Três','Quatro','Cinco','Seis',
-           'Sete', 'Oito', 'Nove','Dez','Onze', 'Doze', 'Treze','Quatorze', 'Quinze', 'Dezesseis','Dezesete','Dezoito','Dezenove','Vinte']
+           'Sete', 'Oito', 'Nove','Dez','Onze', 'Doze', 'Treze','Quatorze', 
+           'Quinze', 'Dezesseis','Dezesete','Dezoito','Dezenove','Vinte']
 
 # Peça ao usuário para inserir um número entre 0 e 20
 #Segundo criar um input para usuario escolher um número de 0 a 20.
