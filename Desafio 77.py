@@ -1,6 +1,6 @@
 # Defina a tupla com as palavras
 palavras = ("python", 
-            "programação", 
+            "programaçao", 
             "Linguagem", 
             "computador", 
             "algoritmo")
